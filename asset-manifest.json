@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hyowon0707/movie_app_2020/static/css/main.7b684203.css",
+    "main.js": "/hyowon0707/movie_app_2020/static/js/main.61f3996b.js",
+    "index.html": "/hyowon0707/movie_app_2020/index.html",
+    "main.7b684203.css.map": "/hyowon0707/movie_app_2020/static/css/main.7b684203.css.map",
+    "main.61f3996b.js.map": "/hyowon0707/movie_app_2020/static/js/main.61f3996b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b684203.css",
+    "static/js/main.61f3996b.js"
+  ]
+}
